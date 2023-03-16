@@ -19,6 +19,8 @@ Repository to document opensource software and selfhosted services
 
 ## Home
 1. Home asistant HOST
+2. Homebox HOST [GITHUB](https://github.com/hay-kot/homebox): Locate everything at your house
+
 
 ## Music
 1. Navidrome HOST[GITHUB](https://github.com/navidrome)
